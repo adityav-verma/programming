@@ -36,7 +36,8 @@ public class BinarySearch{
 		else
 			return -1;
 	}
-
+	
+	//have to implement this part of the code
 	public static int lowerBound(int[] ar, int key, int low, int high){
 		return -1;
 	}
